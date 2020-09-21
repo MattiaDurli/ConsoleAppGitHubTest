@@ -8,6 +8,8 @@ namespace ConsoleAppGitHub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Added line");
+            Console.WriteLine("Cloned");
+
         }
     }
 }
